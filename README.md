@@ -3,7 +3,7 @@ i have  Scraped Urdu data From news Website and clean it using python after that
 First Step:
  Install Libararis Mention in code file
  after that import all laibraries
-step2
+Second Step:
 And Your Website link which you want to scrap 
 And Run The Code
 After All You Have collection of urdu words.'
